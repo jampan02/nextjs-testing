@@ -9,6 +9,7 @@
     "test": "jest --env=jsdom --verbose"
   },
   "dependencies": {
+        "axios": "^0.21.1",
     "autoprefixer": "^10.2.4",
     "msw": "^0.26.2",
     "next": "10.0.7",
